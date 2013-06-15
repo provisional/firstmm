@@ -10,7 +10,7 @@
     <com.example.firstmm.sview_Map
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="#ffffff"/>
+            android:background="@android:color/transparent"/>
 
     <!-- The navigation drawer -->
     <ListView
